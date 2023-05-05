@@ -1,0 +1,21 @@
+.box{
+    margin: auto;
+    width: 50%;
+    background-color: black;
+    margin-top: 15%;
+    border-radius: 25px;
+    box-shadow: 10px 10px 50px rgb(2, 2, 2);
+}
+
+.box h1{
+    color: blueviolet;
+    text-align: center;
+    padding: 20px 0 0 0;
+    font-size: 48px;
+}
+
+.box >p{
+    color: white;
+    padding: 5px 50px 50px;
+    font-size: 18px;
+}
